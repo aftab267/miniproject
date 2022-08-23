@@ -1,2 +1,1 @@
-# miniproject
-https://aftab267.github.io/miniproject/
+This is a Student Management application Made by raw Php.
